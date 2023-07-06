@@ -18,7 +18,7 @@ export default function Navbar({ fixed }) {
 
   const about = [
     { href: '/aboutus', name: 'About Us' },
-    { href: '/our_team', name: 'Our team' },
+    { href: '/our_team', name: 'Our Team' },
   ]
 
   const register = [
